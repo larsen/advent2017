@@ -10,6 +10,7 @@
   :components ((:file "package")
                (:file "day1")
                (:file "day2")
+               (:file "day3")
                (:file "advent2017"))
   :in-order-to ((test-op (test-op #:advent2017/test))))
 
