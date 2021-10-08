@@ -15,3 +15,8 @@
   (is (= (advent2017:day3/solution1) 480))
   ;(is (= (advent2017:day3/solution2) 0))
   )
+
+(test day4
+  (is (= (advent2017:day4/solution1) 383))
+  (is (= (advent2017:day4/solution2) 265))
+  )
