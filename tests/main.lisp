@@ -23,4 +23,5 @@
 
 (test day5
   (is (= (advent2017:day5/solution1) 388611))
+  (is (= (advent2017:day5/solution2) 27763113))
   )
