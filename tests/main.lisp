@@ -20,3 +20,7 @@
   (is (= (advent2017:day4/solution1) 383))
   (is (= (advent2017:day4/solution2) 265))
   )
+
+(test day5
+  (is (= (advent2017:day5/solution1) 388611))
+  )

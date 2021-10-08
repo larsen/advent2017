@@ -12,6 +12,7 @@
                (:file "day2")
                (:file "day3")
                (:file "day4")
+               (:file "day5")
                (:file "advent2017"))
   :in-order-to ((test-op (test-op #:advent2017/test))))
 
